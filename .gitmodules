@@ -1,0 +1,33 @@
+[submodule "jade"]
+	path = jade
+	url = https://github.com/bednar/jade.git
+[submodule "Handlebars"]
+	path = Handlebars
+	url = https://github.com/bednar/Handlebars.git
+[submodule "Pure"]
+	path = Pure
+	url = https://github.com/bednar/Pure.git
+[submodule "RequireJS"]
+	path = RequireJS
+	url = https://github.com/bednar/RequireJS.git
+[submodule "Backbone.Marionette"]
+	path = Backbone.Marionette
+	url = https://github.com/bednar/Backbone.Marionette.git
+[submodule "Backbone.BabySitter"]
+	path = Backbone.BabySitter
+	url = https://github.com/bednar/Backbone.BabySitter.git
+[submodule "Backbone.Wreqr"]
+	path = Backbone.Wreqr
+	url = https://github.com/bednar/Backbone.Wreqr.git
+[submodule "Backbone.js"]
+	path = Backbone.js
+	url = https://github.com/bednar/Backbone.js.git
+[submodule "jQuery"]
+	path = jQuery
+	url = https://github.com/bednar/jQuery.git
+[submodule "Underscore.js"]
+	path = Underscore.js
+	url = https://github.com/bednar/Underscore.js.git
+[submodule "JSON2.js"]
+	path = JSON2.js
+	url = https://github.com/bednar/JSON2.js.git
